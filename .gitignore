@@ -1,0 +1,4 @@
+*.o
+*.d
+*.swp
+nn_example
