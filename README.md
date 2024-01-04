@@ -26,7 +26,7 @@ sigmoid activation function. The file [nn\_saved.bin](nn_saved.bin) contains a
 network that I trained on the MNIST training dataset. It has a successfull prediction rate of 97% on
 the validation set. I noticed that it is able to recognize the digits
 0, 1, 2, 3, 4, 5, and 8 quite reliably. The digit 7 often gets confused with 2
-and 9 often gets confused with 7.
+or 9.
 
 ![example](app_example.gif)
 
